@@ -112,6 +112,7 @@ header{
 }
 .product-card{
     width: 200px;
+    height: auto;
     text-align: center;
     text-decoration:none;
     margin: 10px 15px 10px;
